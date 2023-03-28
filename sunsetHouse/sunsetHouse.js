@@ -13,10 +13,7 @@ meaning does the interaction have */
 
 let x= 0
 let y = 0
-let r = 255
-let g = 110 
-let b = 174
-let d = 0
+
 
 function setup() {
   createCanvas(400, 400);
