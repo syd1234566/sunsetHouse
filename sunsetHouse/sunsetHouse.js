@@ -1,7 +1,7 @@
 // Sydney Manimtim 
 // Nicholas Brown-Hernandez
 // WEB AND FX: FROM THEORY TO PRACTICE,502-A22-LA, sect. 00003 
-// Title of the Artwork (of your own)
+// Sunset house
 // The URL link to your interactive experience
 /* (Instruction) Explain how to use the interaction…*/
 /* (Analysis/artist statement) Explain what is the interaction about… what story does it tell/what
