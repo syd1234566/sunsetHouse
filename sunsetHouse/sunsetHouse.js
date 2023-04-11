@@ -1,7 +1,7 @@
 // Sydney Manimtim 
 // Nicholas Brown-Hernandez
 // WEB AND FX: FROM THEORY TO PRACTICE,502-A22-LA, sect. 00003 
-// Sunset house
+// Title of the Artwork (of your own)
 // The URL link to your interactive experience
 /* (Instruction) Explain how to use the interaction…*/
 /* (Analysis/artist statement) Explain what is the interaction about… what story does it tell/what
@@ -13,7 +13,10 @@ meaning does the interaction have */
 
 let x= 0
 let y = 0
-
+let r = 255
+let g = 110 
+let b = 174
+let d = 0
 
 function setup() {
   createCanvas(400, 400);
